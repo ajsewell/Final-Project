@@ -1,0 +1,115 @@
+Proportion homozygous dominant for frog: 0.16
+Proportion heterozygous for frog: 0.48
+Proportion homozygous recessive for frog: 0.36
+Number with dominant phenotype for frog: 320
+Number with recessive phenotype for frog: 180
+Proportion homozygous dominant for mole: 0.36
+Proportion heterozygous for mole: 0.48
+Proportion homozygous recessive for mole: 0.16
+Number with dominant phenotype for mole: 420
+Number with recessive phenotype for mole: 80
+Proportion homozygous dominant for mole: 0.36
+Proportion heterozygous for mole: 0.48
+Proportion homozygous recessive for mole: 0.16
+Number with dominant phenotype for mole: 420
+Number with recessive phenotype for mole: 80
+Proportion homozygous dominant for mouse: 0.25
+Proportion heterozygous for mouse: 0.5
+Proportion homozygous recessive for mouse: 0.25
+Number with dominant phenotype for mouse: 1500
+Number with recessive phenotype for mouse: 500
+
+time frog population size 
+0     500
+1     607
+2     729
+3     865
+4    1011
+5    1164
+6    1320
+7    1474
+8    1621
+9    1758
+10    1882
+11    1990
+12    2084
+13    2164
+14    2230
+15    2285
+
+The minimum population size is 500 at time 0
+The maximum population size is 2285 at time 15
+The average population size is 1480.25
+time mole population size 
+0     500
+1     729
+2    1011
+3    1320
+4    1621
+5    1882
+6    2084
+7    2230
+8    2329
+9    2393
+10    2434
+11    2459
+12    2475
+13    2485
+14    2490
+15    2494
+16    2496
+17    2497
+18    2498
+19    2499
+20    2499
+
+The minimum population size is 500 at time 0
+The maximum population size is 2499 at time 19
+The average population size is 2067.86
+time mole population size 
+0     500
+1     729
+2    1011
+3    1320
+4    1621
+5    1882
+6    2084
+7    2230
+8    2329
+9    2393
+10    2434
+11    2459
+12    2475
+13    2485
+14    2490
+15    2494
+16    2496
+17    2497
+18    2498
+19    2499
+20    2499
+
+The minimum population size is 500 at time 0
+The maximum population size is 2499 at time 19
+The average population size is 2067.86
+time mouse population size owl population size
+0    2000                  115
+1    1904                   94
+2    1567                   75
+3    1375                   69
+4    1446                   77
+5    1531                   96
+6    1494                  116
+7    1539                  129
+8    1797                  127
+9    2008                  112
+10    1874                   91
+
+For mouse :
+The minimum population size is 1375 at time 3
+The maximum population size is 2008 at time 9
+The average population size is 1685.41
+For owl :
+The minimum population size is 69 at time 3
+The maximum population size is 129 at time 7
+The average population size is 100.66

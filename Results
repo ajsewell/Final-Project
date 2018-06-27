@@ -1,0 +1,52 @@
+Proportion homozygous dominant for robin: 0.0625
+Proportion heterozygous for robin: 0.375
+Proportion homozygous recessive for robin: 0.5625
+Number with dominant phenotype for robin: 437
+Number with recessive phenotype for robin: 562
+Proportion homozygous dominant for rabbit: 0.25
+Proportion heterozygous for rabbit: 0.5
+Proportion homozygous recessive for rabbit: 0.25
+Number with dominant phenotype for rabbit: 787
+Number with recessive phenotype for rabbit: 262
+
+time robin population size 
+0    1000
+1    1215
+2    1459
+3    1730
+4    2023
+5    2329
+6    2641
+7    2949
+8    3243
+9    3517
+10    3764
+11    3981
+12    4169
+
+The minimum population size is 1000 at time 0
+The maximum population size is 4169 at time 12
+The average population size is 2616.92
+time rabbit population size coyote population size
+0    1050                   80
+1    1016                  103
+2     910                  123
+3     947                  120
+4     966                   97
+5     956                   76
+6    1044                   78
+7    1025                  101
+8     914                  122
+9     942                  121
+10     968                   99
+11     953                   77
+12    1038                   77
+
+For rabbit :
+The minimum population size is 910 at time 2
+The maximum population size is 1050 at time 0
+The average population size is 979.665
+For coyote :
+The minimum population size is 76 at time 5
+The maximum population size is 123 at time 2
+The average population size is 98.5989
